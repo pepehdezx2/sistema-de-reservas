@@ -23,8 +23,14 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		F5061F3E2081567F00A62D57 /* Libro.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Libro.h; sourceTree = "<group>"; };
+		F5061F3F20815CC100A62D57 /* Disco.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Disco.h; sourceTree = "<group>"; };
+		F5061F4020815D6400A62D57 /* Software.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Software.h; sourceTree = "<group>"; };
+		F5061F4120815ECF00A62D57 /* Reserva.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Reserva.h; sourceTree = "<group>"; };
+		F5061F4220815EDD00A62D57 /* Fecha.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Fecha.h; sourceTree = "<group>"; };
 		F5F36CF82081006D00F7ACAD /* avancepro3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = avancepro3; sourceTree = BUILT_PRODUCTS_DIR; };
 		F5F36CFB2081006D00F7ACAD /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		F5F36D0320810B4500F7ACAD /* Material.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Material.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +47,12 @@
 		F5F36CEF2081006C00F7ACAD = {
 			isa = PBXGroup;
 			children = (
+				F5F36D0320810B4500F7ACAD /* Material.h */,
+				F5061F3E2081567F00A62D57 /* Libro.h */,
+				F5061F3F20815CC100A62D57 /* Disco.h */,
+				F5061F4020815D6400A62D57 /* Software.h */,
+				F5061F4120815ECF00A62D57 /* Reserva.h */,
+				F5061F4220815EDD00A62D57 /* Fecha.h */,
 				F5F36CFA2081006D00F7ACAD /* avancepro3 */,
 				F5F36CF92081006D00F7ACAD /* Products */,
 			);
